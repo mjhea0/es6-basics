@@ -71,7 +71,7 @@ export default Square;
 
 ## Organization
 
-Fuck it, we're smart. Let's put this together.
+Let's put this together.
 
 ### Application bootstrap
 
